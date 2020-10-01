@@ -1,4 +1,4 @@
-# PythonScriptsForBeginners #Hacktoberfest
+# PythonScriptsForBeginners #Hacktoberfest #Python
 The repository is dedicated towards Python and its awesome potential to automate task. Please feel free to send a PR with your python script that can help to
 automate a daily task. Some examples are:
 1. Use of Python to fetch tweets for a particular hashtag
@@ -13,7 +13,7 @@ Issues:
 
 Method:
 1. Fork the repo
-2. Create your file:  NameOfTheTask.py (If multiple files combine them in a folder)
+2. Create your file:  NameOfTheTask.py (If multiple files combine them in a one folder)
 3. Send a PR
 4. Happy Hacking
 
